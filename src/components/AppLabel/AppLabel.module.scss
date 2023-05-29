@@ -14,7 +14,10 @@
 
 .label-header {
     display: flex;
-    justify-content: space-between;
+    // justify-content: space-between;
+    gap: 24px;
+    // align-items: center;
+    justify-content: space-around;
     margin-bottom: 8px;
 }
 
@@ -52,10 +55,15 @@
 
 .autofill,
 .save {
-    background-color: #79d2b5;
-    color: #2e2e2e;
+    background-color: #319795;
+    color: whitesmoke;
     margin-bottom: 6%;
     padding: 0px 20px;
+    
+    span{
+        // color: whitesmoke;
+        
+    }
     
 }
 .icon{
@@ -63,6 +71,7 @@
 }
 
 .download{
+    color: whitesmoke;
     width: 19px;
 }
 .autofill:active,

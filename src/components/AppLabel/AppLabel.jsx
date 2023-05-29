@@ -8,7 +8,7 @@ const AppLabel = ({printDoc}) => {
   return (
     <div className={styles.label}>
       <div className={styles['label-header']}>
-        <h2>Journal</h2>
+        <h2>Trading Journal</h2>
         <div>
           <button className={styles.save}>
             <img 
@@ -20,12 +20,12 @@ const AppLabel = ({printDoc}) => {
             <span className={styles.buttonText}>Save</span>
           </button>
         </div>
-        <div>
+        {/* <div>
           <button className={styles.autofill}>
             <img src={Autofill} alt="Autofill button"  className={styles.icon}/>
             <span className={styles.buttonText}>Autofill</span>
           </button>
-        </div>
+        </div> */}
       </div>
     </div>
   )

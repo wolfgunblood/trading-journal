@@ -174,7 +174,7 @@ const App = () => {
 
   const [mobile, setMobile] = useState(true);
   const [tdate, setTdate] = useState("");
-  const [isEquity, setIsEquity] = useState(true);
+  const [isEquity, setIsEquity] = useState(false);
   const [isTarget, setIsTarget] = useState(false);
   const [isSl, setIsSL] = useState(false);
   const [isExit, setIsExit] = useState(false);
