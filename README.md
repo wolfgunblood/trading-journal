@@ -5,7 +5,7 @@
 </p>
 
 ## Short Description 📋
-An React SPA to create a Trading Journal with. You can add, edit and delete input fields to put your data in. All of these changes are adopted by the preview Trading Journal in real-time. Once you are happy with the result, you can save and download your trading Journal to your local machine via a simple button click. Also comes with a functionality to autofill all fields and look at what the CV would look like if you filled it out by hand.
+An React SPA to create a Trading Journal with. You can add, edit and delete input fields to put your data in. All of these changes are adopted by the preview Trading Journal in real-time. Once you are happy with the result, you can save and download your trading Journal to your local machine via a simple button click. 
 
 ## Demo
 🖥 [Live Demo](https://wolfgunblood.github.io/trading-journal/)
