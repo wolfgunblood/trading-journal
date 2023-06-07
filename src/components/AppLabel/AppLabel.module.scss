@@ -11,6 +11,7 @@
     border-radius: 12px;
     max-width: 80%;
     margin-left: 5rem;
+    gap: 10px;
 }
 
 .label-header {
@@ -79,4 +80,28 @@
 .save:active,
 .github:active {
     transform: scale(0.9);
+}
+
+.credits {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 30px;
+    color: #fff;
+
+    font-size: 16px;
+    font-style: 400;
+    
+    .creditsBtn{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        color: #fff;
+        gap: 10px;
+        background-color: #010101;
+        padding: 12px 16px;
+        border-radius: 12px;
+        font-size: 14px;
+        font-style: 400;
+    }
 }
