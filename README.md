@@ -13,6 +13,8 @@ An React SPA to create a Trading Journal with. You can add, edit and delete inpu
 ## Showcase 🎬
 You can see my application below.
 
+![ScreenShot](./Screenshot.png)
+
 ## Features ✨
 - Responsiveness for mobile, tablet and desktop
 - Saves Trading Journal as PDF and downloads it
